@@ -1,8 +1,8 @@
-I am script2.py
-I am script2.py
-I am my_task with INFO
-I am my_task with WARNING
-I am my_task with ERROR
-I am my_task with DEBUG
-I am a task of SCRIPT2.PY
-I am a task of SCRIPT1.PY
+2023-02-05 23:19:41,102 - __main__ - WARNING - I am script2.py
+2023-02-05 23:19:41,102 - __main__ - ERROR - I am script2.py
+2023-02-05 23:19:41,102 - archives.task - INFO - I am my_task with INFO
+2023-02-05 23:19:41,102 - archives.task - WARNING - I am my_task with WARNING
+2023-02-05 23:19:41,102 - archives.task - ERROR - I am my_task with ERROR
+2023-02-05 23:19:41,102 - archives.task - DEBUG - I am my_task with DEBUG
+2023-02-05 23:19:41,102 - __main__ - INFO - I am a task of SCRIPT2.PY
+2023-02-05 23:19:41,103 - prog1.script1 - INFO - I am a task of SCRIPT1.PY
