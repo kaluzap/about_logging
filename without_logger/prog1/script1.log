@@ -1,0 +1,5 @@
+WARNING:root:I am script1.py
+ERROR:root:I am script1.py
+INFO:root:I am my_task
+INFO:root:I am a task of SCRIPT1.PY
+INFO:root:I am a task of SCRIPT2.PY
