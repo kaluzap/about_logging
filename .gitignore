@@ -1,0 +1,21 @@
+# Environments
+venv/
+reports/
+__pycache__/
+datos_historicos/
+temp/
+
+#Notebooks
+.ipynb_checkpoints/
+
+#mis archivos
+stop
+nohup.out
+delta_eur.dat
+delta_usd.dat
+
+#logs
+*.log
+
+#text editir
+*.kate-swp
